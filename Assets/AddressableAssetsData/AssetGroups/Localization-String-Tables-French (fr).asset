@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-French (fr)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-French (fr)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 299f8bc600e6ee649968f569633badce
+  m_SerializeEntries:
+  - m_GUID: 47c9c3602507c0d47bfca517b2e86abe
+    m_Address: DebugText_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    - Preload
+  - m_GUID: 2f03cdcdb4cb28145bd5f80e49ea91b3
+    m_Address: Jaggi_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    - Preload
+  - m_GUID: 2590673d198f6094a9c3ab7c9449d02b
+    m_Address: DebugItems_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    - Preload
+  - m_GUID: 0e36b66278d76ea459673ab16b895ebd
+    m_Address: Error messages_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 3273b33d7cb3e0f49b38c2e1a6655e17, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9406c9183ba57ad419382ca5234a5e03, type: 2}
+    - {fileID: 11400000, guid: 1b26442f39033554f9fb139d123a89ad, type: 2}
