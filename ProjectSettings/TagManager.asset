@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - Tree
+  - Mineral
+  - Ground
+  - NPC
+  - Highlight
+  - ItemBox
+  - Marker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hitbox
+  - Water
+  - UI
+  - Ground
+  - MinimapIcons
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Icons
+    uniqueID: 2359426169
+    locked: 0
