@@ -86,3 +86,6 @@ La Martache possède deux modes, chacun avec ses mouvements propres :
 ## A venir
 
 Ajout d'un premier ennemi pour pouvoir s'entrainer au maniement de l'arme.
+
+## VIDEO DEMO
+[[Lore Hunter vidéo demo]](https://youtu.be/azaSa8vDrhI)
