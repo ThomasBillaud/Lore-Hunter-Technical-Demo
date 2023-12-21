@@ -1,5 +1,8 @@
 # Lore-Hunter
 
+## VIDEO DEMO
+[[Lore Hunter vidéo demo]](https://youtu.be/azaSa8vDrhI)
+
 ## Démo technique du jeu Lore-Hunter montrant les fonctionnalités de base déjà intégrées
 
 Ce projet est la base de mon futur jeu Lore Hunter, un action-RPG fantasy où le joueur incarne un soldat chargé de protéger un groupe d'historiens venu explorer des ruines antiques de monstres gigantesques habitant les lieux.
@@ -86,6 +89,3 @@ La Martache possède deux modes, chacun avec ses mouvements propres :
 ## A venir
 
 Ajout d'un premier ennemi pour pouvoir s'entrainer au maniement de l'arme.
-
-## VIDEO DEMO
-[[Lore Hunter vidéo demo]](https://youtu.be/azaSa8vDrhI)
